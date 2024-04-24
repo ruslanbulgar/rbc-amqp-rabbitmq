@@ -1,10 +1,10 @@
 to start rabbitmq run from terminal
 
-docker-compose up -d
+**docker-compose up -d**
 
 to stop rabbitmq run
 
-docker-compose down
+**docker-compose down**
 
 -------------------------------------
 Go in the browser to open rabbitmq admin
