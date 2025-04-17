@@ -9,5 +9,4 @@ class RbcAmqpRabbitmqApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
